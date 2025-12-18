@@ -9,4 +9,4 @@ def build_model():
         class_weight='balanced',
         random_state=42,
         n_jobs=-1
-    -)
+    )
